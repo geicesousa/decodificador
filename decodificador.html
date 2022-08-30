@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Decodificador</title>
+    <link rel="stylesheet" href="decodificador.css">
+</head>
+<body> 
+     <main> 
+        <img src="logo.png" alt="logo da alura">  
+        <section class="div-principal">
+            <textarea class="input-texto" type="texto" placeholder="Digite seu texto"></textarea>
+        <div class="botoes">
+            <button class="encriptar" type="submit" onclick="btnEncriptar()">Criptografar</button>
+            <button class="desencriptar" type="submit" onclick="btnDesencriptar()">Descriptografar</button>
+        
+        </div>
+        </section>
+        
+        <section class="mensagem-box">
+            <textarea class="mensagem" type="texto"></textarea>
+                      
+        <div class="div-aparece">
+            
+            <button class="copiar" onclick="copiar()">Copiar</button>
+            </div>
+
+        </section>
+    </main>
+    <script src="decodificador.js"></script>
+</body>
+</html>
