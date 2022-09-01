@@ -1,0 +1,78 @@
+body{
+    background-color: #bdd6e2d5;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 35px;
+    position: relative;
+    width: 1190px;
+    height: 604px;
+    left: 70px;
+}
+
+img{
+    height: 48px;
+    width: 31.085588455200195px;
+    left: 44px;
+    top: 0px;
+    border-radius: 0px;
+}
+
+main{
+    display:flex;
+    justify-content: space-around;
+    margin-top: 40px;
+    margin-right: 40px;
+    
+}
+
+textarea{
+    height: 300px;
+    width: 680px;
+    left: 240px;
+    top: 168px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.mensagem{
+   
+    background-image: url("nenhuma_msg.png");
+    background-repeat: no-repeat;
+    background-position: 40px;
+    background-size: 300px;
+
+    height: 500px;
+    width: 400px;
+    left: 100px;
+    border-radius: 10px; 
+    top: 40px;
+
+}
+
+button{
+    padding: 15px;
+    border-radius: 10px;
+    border-color: grey;
+    background-color: rgba(127, 204, 255, 0.849);
+   
+}
+.desencriptar{
+    background-color: rgba(27, 138, 212, 0.849);
+}
+
+.mensagem-box img{
+    position: absolute;
+    height: 320px;
+    width: 200px;
+    left: 850px;
+    top: 60px;
+    border-radius: 0px;
+
+}
+
+.mensagem-box .imgtexto{
+    width: 200px;
+    height: 70px;
+    top: 375px;
+    text-align: center;
+}
+
