@@ -34,7 +34,6 @@ textarea{
 }
 
 .mensagem{
-   
     background-image: url("nenhuma_msg.png");
     background-repeat: no-repeat;
     background-position: 40px;
@@ -45,7 +44,6 @@ textarea{
     left: 100px;
     border-radius: 10px; 
     top: 40px;
-
 }
 
 button{
@@ -53,8 +51,8 @@ button{
     border-radius: 10px;
     border-color: grey;
     background-color: rgba(127, 204, 255, 0.849);
-   
 }
+
 .desencriptar{
     background-color: rgba(27, 138, 212, 0.849);
 }
@@ -66,7 +64,6 @@ button{
     left: 850px;
     top: 60px;
     border-radius: 0px;
-
 }
 
 .mensagem-box .imgtexto{
@@ -76,3 +73,17 @@ button{
     text-align: center;
 }
 
+footer{
+    text-align: center;
+    vertical-align: text-bottom;
+    margin-top: 27%;
+    color: white;
+    line-height: 0%;
+    
+}
+
+a{
+    text-decoration: none;
+    list-style-type: none;
+    color: white;
+}
