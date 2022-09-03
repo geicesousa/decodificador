@@ -76,3 +76,16 @@ button{
     text-align: center;
 }
 
+footer{
+    text-align: center;
+    vertical-align: text-bottom;
+    margin-top: 27%;
+    color: white;
+    line-height: 0%; 
+}
+
+a{
+    text-decoration: none;
+    list-style-type: none;
+    color: white;
+}
