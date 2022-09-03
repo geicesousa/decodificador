@@ -75,15 +75,16 @@ button{
 
 footer{
     text-align: center;
+    font-family:monospace;
+    font-size: 12px;
+    font-weight: bolder;
     vertical-align: text-bottom;
-    margin-top: 27%;
-    color: white;
-    line-height: 0%;
-    
+    color: rgb(0, 92, 153);
+
 }
 
 a{
     text-decoration: none;
-    list-style-type: none;
-    color: white;
+    color: rgb(0, 92, 153);
+
 }
