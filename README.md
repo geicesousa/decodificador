@@ -10,7 +10,7 @@
 
 <br>
 
-### 🎯 [Clique para acessar]("https://geice-sousa.github.io/decodificador/")
+### 🎯 [Clique para acessar](https://geice-sousa.github.io/decodificador/)
 
 <br>
 
